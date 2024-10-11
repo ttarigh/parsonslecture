@@ -1,8 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  // If your repository name is different from your GitHub username, 
-  // you'll need to add this:
+  images: {
+    unoptimized: true,
+  },
+  // If your repository name is different from your GitHub username, uncomment and adjust these:
   // assetPrefix: '/your-repo-name/',
   // basePath: '/your-repo-name',
 }
