@@ -2,6 +2,7 @@
   "name": "parsons_lecture",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://tina.zone/parsonslecture/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
