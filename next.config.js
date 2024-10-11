@@ -4,7 +4,6 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  // If your repository name is different from your GitHub username, uncomment and adjust these:
   assetPrefix: '/parsonslecture/',
   basePath: '/parsonslecture',
 }
